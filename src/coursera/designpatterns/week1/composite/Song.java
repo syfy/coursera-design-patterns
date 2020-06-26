@@ -29,5 +29,5 @@ public class Song implements IComponent {
 	String getArtist() {
 		return this.artist;
 	}
-
+//
 }
