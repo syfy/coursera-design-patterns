@@ -1,3 +1,4 @@
+package coursera.designpatterns.week1.composite;
 
 public class Song implements IComponent {
 	public String songName;

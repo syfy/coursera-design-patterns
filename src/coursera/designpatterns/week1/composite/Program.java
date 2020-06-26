@@ -1,3 +1,4 @@
+package coursera.designpatterns.week1.composite;
 
 public class Program {
 	public static void main(String args[]) {

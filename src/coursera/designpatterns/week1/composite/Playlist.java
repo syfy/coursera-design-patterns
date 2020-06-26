@@ -1,3 +1,4 @@
+package coursera.designpatterns.week1.composite;
 import java.util.ArrayList;
 
 public class Playlist implements IComponent {
